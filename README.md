@@ -348,10 +348,11 @@ The demonstration gave us an opportunity to explain the complete system to stude
 
 Developed as a team project by:
 
-Ryan
-Abhinaya
-Varsha
-Final Note
+-Ryan
+-Abhinaya
+-Varsha
+
+## Final Note
 
 AirWatch started as a simple idea: collect air-quality data using inexpensive sensors and make that information easier to understand.
 
